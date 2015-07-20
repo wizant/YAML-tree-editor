@@ -1,0 +1,16 @@
+{
+  "name": "YAML-tree-editor",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "private": true,
+  "devDependencies": {
+    "bower": "~1.4.1",
+    "gulp": "~3.8.11",
+    "gulp-compass": "~2.1.0",
+    "gulp-concat": "~2.5.2",
+    "gulp-jade": "~1.0.1",
+  }
+}

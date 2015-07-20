@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "dependencies": {},
   "devDependencies": {
-    "bootstrap-sass-official": "~v3.3.4",
+    "bootstrap": "3.3.4",
     "angular": "1.4.0",
-    "angular-ui-router": "0.2.15"
+    "angular-ui-router": "0.2.15",
+    "angular-resource": "~1.4.2"
   }
 }

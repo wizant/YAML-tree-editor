@@ -3,8 +3,8 @@
 
 ### Getting started
 
-  # npm install
-  # bower install
-  # python -m http.server 8090
+    # npm install
+    # bower install
+    # python -m http.server 8090
 
 
